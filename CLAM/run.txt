@@ -1,0 +1,5 @@
+chmod +x /data2/TCGA-COADREAD/CLAM/05_Seg-Patching.sh
+/data2/TCGA-COADREAD/CLAM/05_Seg-Patching.sh
+
+chmod +x /data2/TCGA-COADREAD/CLAM/06_Extracting-Feats.sh
+/data2/TCGA-COADREAD/CLAM/06_Extracting-Feats.sh

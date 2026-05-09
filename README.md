@@ -1,9 +1,6 @@
 # GPMA: Gastric Cancer Prognostication Model
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2640--3086-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-2640-3086)
-[![GitHub](https://img.shields.io/badge/GitHub-minibelfast-181717?logo=github&logoColor=white)](https://github.com/minibelfast)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Xuanyu%20Wang-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Xuanyu-Wang-11/research)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-xuanyuwang-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/xuanyuwang)
+
 
 This repository contains the code for the **GPMA (Gastric Cancer Prognostication Model)**. The model is built on top of the Mamba architecture and Attention mechanisms (MambaAttn) to achieve highly accurate prognostic predictions and visualizations from Whole Slide Images (WSIs). 
 
